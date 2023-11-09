@@ -1,11 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif) width="900" height="500"]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)]
 <h1 align="center">Hi 👋, I'm Md. Selim Hossain</h1>
 <h3 align="center">A passionate and dedicated front End developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selimnill&label=Profile%20views&color=0e75b6&style=flat" alt="selimnill" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selimnill" alt="selimnill" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/its_mr_nill" target="blank"><img src="https://img.shields.io/twitter/follow/its_mr_nill?logo=twitter&style=for-the-badge" alt="its_mr_nill" /></a> </p>
 
@@ -36,3 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selimnill&show_icons=true&locale=en&layout=compact" alt="selimnill" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selimnill&show_icons=true&locale=en" alt="selimnill" /></p>
+
