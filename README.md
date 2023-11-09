@@ -1,6 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif | height=400 width=800)]
 <h1 align="center">Hi 👋, I'm Md. Selim Hossain</h1>
-<h3 align="center">A passionate and dedicated front End developer</h3>
+<h3 align="center">A passionate and dedicated Front End developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
 
 <p align="left"> <a href="https://twitter.com/its_mr_nill" target="blank"><img src="https://img.shields.io/twitter/follow/its_mr_nill?logo=twitter&style=for-the-badge" alt="its_mr_nill" /></a> </p>
