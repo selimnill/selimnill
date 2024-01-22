@@ -11,9 +11,10 @@
 
 - 💬 Ask me about **JavaScript && MERN**
 
-- 📫 How to reach me **mrrafi812345@gmail.com**
+- 📫 How to reach me **selim.nill1@gmail.com
+**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1tDZ7v_mdxyD15oB3StmD_Q-rLX1qWPUR/view?usp=sharing](https://docs.google.com/document/d/1H2kD6-9Rg96k_RKnksow57FkBrL-koPsWEKZF2lx_5c/edit)]([https://drive.google.com/file/d/1tDZ7v_mdxyD15oB3StmD_Q-rLX1qWPUR/view?usp=sharing](https://docs.google.com/document/d/1H2kD6-9Rg96k_RKnksow57FkBrL-koPsWEKZF2lx_5c/edit))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1oNpyqN4L2kosMB6ez53j9PIsE31W2ioD/view](https://drive.google.com/file/d/1oNpyqN4L2kosMB6ez53j9PIsE31W2ioD/view)]([https://drive.google.com/file/d/1oNpyqN4L2kosMB6ez53j9PIsE31W2ioD/view](https://drive.google.com/file/d/1oNpyqN4L2kosMB6ez53j9PIsE31W2ioD/view))
 
 - ⚡ Fun fact **feel crazy when get error for a stupid mistake :-)**
 
