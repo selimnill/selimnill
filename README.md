@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react workflows**
 
-- 👨‍💻 All of my projects are available at [https://selim-portfolio.netlify.app/](https://selim-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://selim-portfolio.netlify.app/](https://selimnill-portfolio.netlify.app/)
 
 - 💬 Ask me about **JavaScript && MERN**
 
