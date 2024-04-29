@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/its_mr_nill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_mr_nill" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-selim-hossain-351239211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-selim-hossain-351239211" height="30" width="40" /></a>
+<a href="https://bd.linkedin.com/in/mohammad-selim-hossain-351239211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-selim-hossain-351239211" height="30" width="40" /></a>
 <a href="https://fb.com/itsselim03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsselim03" height="30" width="40" /></a>
 <a href="https://instagram.com/its_selim_nill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_selim_nill" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/its-nill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its-nill" height="30" width="40" /></a>
