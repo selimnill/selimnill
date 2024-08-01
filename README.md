@@ -1,5 +1,5 @@
 <img align="right" alt="Coding" height="400" width="1050" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
-<h1 align="center">Hi 👋, I'm Md. Selim Hossain</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Selim</h1>
 <h3 align="center">A passionate and dedicated Front End developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
 
