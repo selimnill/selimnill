@@ -14,7 +14,7 @@
 - 📫 How to reach me **selim.nill1@gmail.com
 **
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1ARCWeeG39R99ThNDiDbgm4z1GtSqjSph/view?usp=sharing](https://drive.google.com/file/d/1ARCWeeG39R99ThNDiDbgm4z1GtSqjSph/view?usp=sharing)]([https://drive.google.com/file/d/1ARCWeeG39R99ThNDiDbgm4z1GtSqjSph/view?usp=sharing](https://drive.google.com/file/d/1ARCWeeG39R99ThNDiDbgm4z1GtSqjSph/view?usp=sharing))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1ARCWeeG39R99ThNDiDbgm4z1GtSqjSph/view](https://drive.google.com/file/d/1ARCWeeG39R99ThNDiDbgm4z1GtSqjSph/view)]
 
 - ⚡ Fun fact **feel crazy when get error for a stupid mistake :-)**
 
